@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "ml_practice_projects",
+		"path": "../../../../tutorial/ml_practice_projects"
+	},
+	{
+		"name": "datasets",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
